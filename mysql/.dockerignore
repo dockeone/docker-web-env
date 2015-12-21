@@ -1,0 +1,10 @@
+README
+build_image.sh
+run_container.sh
+clear_all_containers.sh
+.git
+Dockerfile
+.dockerignore
+beanstalked/
+mysql/
+redis/
