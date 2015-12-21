@@ -19,7 +19,8 @@
 * v0.10.25
 * 代码通过Volume挂载
 
-## 整合在一起by docker-compose(https://docs.docker.com/compose/)
+## docker-compose(https://docs.docker.com/compose/)
+
 ```
 docker-compose up -d   //run all of env
 ```
